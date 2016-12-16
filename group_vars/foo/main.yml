@@ -1,0 +1,3 @@
+var_group_vars_hosts: value of group_vars/foo/main.yml
+var_group_vars_group: value of group_vars/foo/main.yml
+var_host_vars_group: value of group_vars/foo/main.yml

@@ -1,0 +1,2 @@
+var_role_defaults: value of roles/foo/defaults/main.yml
+var_inventory_group_vars: value of roles/foo/defaults/main.yml

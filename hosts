@@ -1,0 +1,7 @@
+[foo]
+localhost var_inventory_host_vars="value of hosts" var_group_vars_hosts="value of hosts" var_host_vars_hosts="value of hosts" var_role_vars="value of hosts"
+
+[foo:vars]
+var_inventory_group_vars="value of [foo:vars]"
+var_group_vars_group="value of [foo:vars]"
+var_inventory_host_vars="value of [foo:vars]"

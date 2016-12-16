@@ -1,0 +1,5 @@
+- name: write to /tmp/variables.txt
+  template:
+    dest: /tmp/variables.txt
+    force: yes
+    src: variables.txt.j2

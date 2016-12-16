@@ -1,0 +1,3 @@
+var_host_vars_hosts: value of host_vars/localhost/main.yml
+var_host_vars_group: value of host_vars/localhost/main.yml
+var_role_vars: value of host_vars/localhost/main.yml
